@@ -1,0 +1,26 @@
+url,title,genre,release date,developer,publisher
+http://store.steampowered.com/agecheck/app/42700/,Call of Duty: Black Ops,Action,2010-11-09,Treyarch,Activision
+http://store.steampowered.com/app/237630/,DuckTales: Remastered,Action,2013-08-13,WayForward Technologies,Capcom
+http://store.steampowered.com/agecheck/app/307780/,Mortal Kombat X,Action,2015-04-03,NetherRealm Studios,Warner Bros. Interactive Entertainment
+http://store.steampowered.com/app/243120/,Betrayer,Action,2014-03-24,Blackpowder Games, Blackpowder Games
+http://store.steampowered.com/app/8870/,BioShock Infinite,Action,2013-03-25,Irrational Games,2K
+http://store.steampowered.com/app/216090/,Go Home Dinosaurs!,Casual,2013-03-14,Fire Hose Games,Fire Hose Games
+http://store.steampowered.com/app/301640/,Zombie Army Trilogy,Action,2015-03-06,Rebellion,Rebellion
+http://store.steampowered.com/app/268500/,XCOM 2,Strategy,2016-02-05,Firaxis Games,2K Games
+http://store.steampowered.com/app/42910/,Magicka,Action,2011-01-25,Arrowhead Game Studios,Paradox Interactive
+http://store.steampowered.com/app/206420/,Saints Row IV,Action,2013-08-19,Deep Silver Volition,Deep Silver
+http://store.steampowered.com/app/221810/,The Cave,Adventure,2013-01-23,Double Fine Prouctions,SEGA
+http://store.steampowered.com/app/273350/,Evolve Stage 2,Action,2015-02-10,Turtle Rock Studios,2K
+http://store.steampowered.com/app/39140/,Final Fantasy VII,RPG,2013-07-04,Square Enix,Square Enix
+http://store.steampowered.com/app/213610/,Sonic Adventure 2,Action,2012-11-19,SEGA,SEGA
+http://store.steampowered.com/app/332780/,National Zombie Park,Action,2014-12-15,Paper Games,Paper Games
+http://store.steampowered.com/app/217920/,Alien Rage - Unlimited,Action,2013-09-24,CI Games,CI Games
+http://store.steampowered.com/app/4000/,Garry's Mod,2006-11-29,Indie,Facepunch Studios,Valve
+http://store.steampowered.com/app/246280/,Happy Wars,Action,2014-05-28,Toylogic inc.,Toylogic inc.
+http://store.steampowered.com/app/17710/,Nuclear Dawn,2011-09-26,Action,GameConnect,Iceberg Interactive
+http://store.steampowered.com/app/91100/,SkyDrift,Indie,2011-11-21,Digital Reality,THQ Nordic
+http://store.steampowered.com/app/377160/,Fallout 4,RPG,2015-11-09,Bethesda Game Studios,Bethesda Softworks
+http://store.steampowered.com/app/318020/,Act of Aggression - Reboot Edition,Strategy,2015-09-02,Eugen Systems,Focus Home Interactive
+http://store.steampowered.com/app/385760/,NBA 2K17,Sports,2016-09-20,Visual Concepts,2K
+http://store.steampowered.com/app/42160/,War of the Roses,Action,2013-02-06,Fatshark,Paradox Interactive
+http://store.steampowered.com/app/228300/,Remember Me,Action,2013-06-03,DONTNOD Entertainment,Capcom
